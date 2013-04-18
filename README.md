@@ -27,7 +27,7 @@ jQuery 1.9.1 (>= 1.7)
 
 Q: Does this library use transform, css transition and css animations?
 
-A: No. This uses just "left" style. I know those are faster but buggy especially on mobile devices.
+A: No. This uses just "top" style. I know those are faster but buggy especially on mobile devices.
 
 ## License
 
