@@ -1,6 +1,6 @@
 /*! jQuery.touchdragv (https://github.com/Takazudo/jQuery.touchdragv)
  * lastupdate: 2013-04-19
- * version: 1.0.0
+ * version: 1.1.2
  * author: 'Takazudo' Takeshi Takatsudo <takazudo@gmail.com>
  * License: MIT */
 (function() {
